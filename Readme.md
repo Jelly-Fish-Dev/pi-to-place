@@ -1,6 +1,6 @@
 # Pi-to-Point #
 
-A simple rust program that points pi to a specified decimal point. Uses the pi to 1000 points from ![Here](https://www.angio.net/pi/digits.html)
+A simple rust program that points pi to a specified decimal point. Uses the pi to 1000 points from [Here](https://www.angio.net/pi/digits.html)
 
 ## Usage ##
 
