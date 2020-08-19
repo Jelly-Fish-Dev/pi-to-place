@@ -3,7 +3,7 @@ use std::fs;
 
 
 fn main(){
-	let mut points: usize = 0;
+	let points: usize;
 	let args: Vec<std::string::String> = std::env::args().collect();
 
 	points = usize::from_str(&args[1])
